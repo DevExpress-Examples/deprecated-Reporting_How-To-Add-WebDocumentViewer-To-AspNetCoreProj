@@ -6,4 +6,4 @@ The report in this example is created as the [Create a Report in Visual Studio](
 
 Notes:
 1. Update the project's NuGet packages before running this project.
-2. Restore packages (listed in the [package.json](./CS/EndUserDesignerExample/package.json) file) before running this project.
+2. Restore packages (listed in the [package.json](./CS/Reporting_How-To-Add-WebDocumentViewer-To-AspNetCoreProj/package.json) file) before running this project.
