@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.757
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sampleAspNetReporting", "Reporting_How-To-Add-WebDocumentViewer-To-AspNetCoreProj\sampleAspNetReporting.csproj", "{DFCA2FB8-D99E-4B49-95FA-10E0C9049A25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sampleAspNetReporting", "Reporting_How-To-Add-WebDocumentViewer-To-AspNetCoreProj\sampleAspNetReporting.csproj", "{824B7B77-0951-499E-AE85-1819388B18C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DFCA2FB8-D99E-4B49-95FA-10E0C9049A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DFCA2FB8-D99E-4B49-95FA-10E0C9049A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DFCA2FB8-D99E-4B49-95FA-10E0C9049A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DFCA2FB8-D99E-4B49-95FA-10E0C9049A25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{824B7B77-0951-499E-AE85-1819388B18C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824B7B77-0951-499E-AE85-1819388B18C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824B7B77-0951-499E-AE85-1819388B18C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824B7B77-0951-499E-AE85-1819388B18C9}.Release|Any CPU.Build.0 = Release|Any CPU
 		EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1E81F705-C193-4F55-9171-667E22ED13FE}
+		SolutionGuid = {AEB7C7F5-2A82-4C3B-B9F8-D522BD775E7F}
 	EndGlobalSection
 EndGlobal
