@@ -28,10 +28,8 @@ namespace sampleAspNetReporting {
                 options.CheckConsentNeeded = context => true;
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
-            services.AddMvc();
-            services.AddDevExpressControls();
-
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddDevExpressControls();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
